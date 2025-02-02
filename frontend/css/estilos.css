@@ -1,5 +1,6 @@
 body {
-    font-family: 'Arial', sans-serif;
+  /* INC465 cambio de fuente helvetica*/
+  font-family: 'Helvetica','Arial', sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -7,7 +8,8 @@ body {
   }
 
   header {
-    background: #052c66;
+    /*cambio de color corporativo de la cabecera */
+    background: #3f94b6;
     color: #fff;
     text-align: center;
     padding: 10px 0;
@@ -118,7 +120,8 @@ body {
   }
   
   footer {
-    background: #052c66;
+    /*cambio de color corporativo del pie */
+    background: #3f94b6;
     color: #fff;
     text-align: center;
     padding: 10px 0;
